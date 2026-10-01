@@ -1,0 +1,215 @@
+{
+  "name": "Orlando Roman",
+  "domain": "https://www.orlandoroman.com",
+  "cv": "https://drive.google.com/file/d/1XD3EAPhV--DvTyJPuyhyt5PAvR5gjiZX/view?usp=sharing",
+  "home": [
+    "Welcome!",
+    "I am an economist interested in development economics, political economy, and economic history. My research examines how deeply rooted institutions and cultural norms shape economic behavior and access to opportunities in low- and middle-income countries.",
+    "I am a Postdoctoral Research Associate at <a href=\"https://www.sydney.edu.au/\">The University of Sydney</a>.",
+    "I received my PhD in Economics from the <a href=\"https://www.graduateinstitute.ch/\">Geneva Graduate Institute</a> in 2026. I graduated with an MSc in Economics from the <a href=\"https://www.uva.nl/en?cb\">University of Amsterdam</a> in 2017 and a BSc  in Economics from the <a href=\"https://www.uam.es/uam/inicio\">Autonomous University of Madrid</a> in 2015.",
+    "I am originally from Venezuela. Before 2023, I published under my full name, Orlando Zambrano Roman.",
+    "Here is my <a href=\"https://drive.google.com/file/d/1XD3EAPhV--DvTyJPuyhyt5PAvR5gjiZX/view?usp=sharing\">CV</a>.",
+    "Email: <a href=\"mailto:orlando.roman@sydney.edu.au\">orlando.roman@sydney.edu.au</a>"
+  ],
+  "contact": [
+    "School of Economics",
+    "The University of Sydney",
+    "Camperdown, New South Wales 2050, Australia",
+    "Email: <a href=\"mailto:orlando.roman@sydney.edu.au\">orlando.roman@sydney.edu.au</a>",
+    "LinkedIn: <a href=\"https://www.linkedin.com/in/orlandozroman/\">https://www.linkedin.com/in/orlandozroman/</a>",
+    "X: <a href=\"https://x.com/or_landoroman\">@or_landoroman</a>"
+  ],
+  "papers": [
+    {
+      "id": "concessions",
+      "section": "Working Papers",
+      "title": "Concessions, Land Segregation, and Spatial Development: Evidence from Mozambique",
+      "metadata": [
+        "Submitted"
+      ],
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://drive.google.com/file/d/1Z_A1QiLUCalR_oLCC7g9BEcbT9bPq2xC/view?usp=sharing"
+        },
+        {
+          "label": "AI Podcast",
+          "url": "https://drive.google.com/file/d/1xr0Sw4SdKEy1dC26VYxcE1Aet02pROYh/view?usp=sharing"
+        }
+      ],
+      "abstract": "Concession companies governed large parts of colonial Africa. This paper examines the Mozambique Company, which governed central Mozambique from 1891 to 1942, to show how private company rule varied within a single concession. The Company granted land to white settlers and commercial firms while establishing indigenous reserves that supplied African labour to public works and settler ventures. I combine census microdata with novel historical and geospatial data to compare long-term outcomes for individuals living in municipalities on either side of the Company’s external boundary and internal land-allocation margin. At the external border, I find suggestive evidence of higher wealth and literacy in former white settler areas, while indigenous reserves do not differ significantly from neighbouring areas under direct Portuguese rule. Within the concession, the wealth and literacy gaps between former white settler and non-settler areas are substantially larger. Evidence on mechanisms is consistent with persistence through labour force specialisation and colonial transport networks. Residents of former white settler areas are more likely to work outside subsistence agriculture or fishing and to hold non-vulnerable employment. Within these areas, denser colonial road networks are associated with higher wealth and literacy today. I also find suggestive evidence linking historical mission access to contemporary human capital. These findings show that treating private colonial governance as homogeneous can obscure persistent development gaps arising from differences within a single concession"
+    },
+    {
+      "id": "linguistic-divides",
+      "section": "Working Papers",
+      "title": "Linguistic Divides: Gendered Language and Gender Norms in India",
+      "metadata": [
+        "with N. Mantha and <a href=\"https://bpattath.github.io/\">B. Pattath</a>"
+      ],
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://drive.google.com/file/d/1DOemCFPUYt0ecOKZpFddr0FyKpvu7w2J/view?usp=sharing"
+        }
+      ],
+      "abstract": "A common feature of many languages is grammatical gender, where nouns are assigned to sex-based categories. This paper examines whether speaking a gendered language affects women’s educational attainment and economic opportunities in South India. We exploit variation within the Dravidian language family, where Telugu uniquely classifies nouns as masculine or non-masculine, while Tamil, Kannada, and Malayalam distinguish between masculine, feminine, and inanimate nouns. Our empirical strategy combines ordinary least squares with linguistic border variation, exploiting differences in both individual mother tongue and the surrounding linguistic environment. This two-dimensional approach allows us to disentangle cognitive effects, arising from personally speaking a gendered language, from cultural effects, stemming from residence in a society where a gendered language is spoken. We find that exposure to Telugu through mother tongue, the surrounding linguistic region, or both is associated with poorer educational and labor market outcomes for women, with the largest gaps when individual and regional exposure coincide. We also find greater support for gender norms that reinforce separate masculine and feminine social roles among Telugu speakers. These findings highlight the importance of distinguishing cognitive from cultural channels when studying gender inequality and the role of language in shaping gender norms"
+    },
+    {
+      "id": "carbon-concessions",
+      "section": "Research in Progress",
+      "title": "Carbon Concessions",
+      "metadata": [
+        "with <a href=\"https://etiennelerossignol.wordpress.com/\">E. Le Rossignol</a> and <a href=\"https://www.guypincus.com/\">G. Pincus</a>",
+        "Funding: Wheeler Institute for Business and Development, ReCIPE"
+      ],
+      "links": [
+        {
+          "label": "Project Description",
+          "url": "https://grp.cepr.org/recipe/projects/carbon-concessions-local-economic-consequences-forest-preservation-policies"
+        }
+      ],
+      "abstract": "Voluntary carbon markets have expanded rapidly across sub-Saharan Africa, channeling private climate finance into large-scale land-based carbon concessions. This paper constructs a novel geocoded dataset of certified carbon concessions and examines their allocation and local economic effects. At the country level, participation in voluntary carbon markets is associated with ecological endowments and institutional capacity. Within countries, concessions are disproportionately located in forested and agriculturally suitable areas, often overlapping with territories inhabited by politically marginalized groups. Using a staggered difference-in-differences design, we find that concession exposure leads to a persistent decline in local economic activity, as proxied by nighttime lights, with no evidence of differential pre-trends. The contraction is concentrated in conservation-oriented projects, public lands, and areas facing forest pressure, while afforestation projects exhibit weaker effects. These findings suggest that contemporary carbon concessions reshape local land governance through enforceable land-use restrictions, generating local economic costs"
+    },
+    {
+      "id": "brewing-cooperation",
+      "section": "Research in Progress",
+      "title": "Brewing Cooperation: Women’s Alcohol Production and Collective Action in Africa",
+      "metadata": [],
+      "links": [],
+      "abstract": "Across much of Africa, indigenous alcohol production was traditionally controlled by women. Brewing was labor-intensive and often organized through reciprocal female labor networks, while providing women with a source of autonomous income. This paper examines whether these gendered production institutions fostered durable forms of cooperation and collective action among women. It combines original geocoded ethnographic data on precolonial brewing practices and gender roles with agro-ecological suitability, historical ethnic boundaries, and contemporary household and public-opinion surveys. The analysis tests whether populations from societies with female-controlled brewing exhibit different patterns of women’s economic, civic, and political participation today. It also examines whether colonial restrictions on indigenous alcohol production altered these relationships. The paper uses brewing to study how gendered economic institutions shape social organization over the long run"
+    },
+    {
+      "id": "inclusive-urban-futures",
+      "section": "Policy Publications",
+      "title": "Asia-Pacific SDG Partnership Report. Inclusive Urban Futures: From Inequality to Opportunity",
+      "metadata": [
+        "Asian Development Bank, United Nations Development Programme, and United Nations ESCAP, 2026"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://www.adb.org/documents/2026-asia-pacific-sdg-partnership-report"
+        },
+        {
+          "label": "Media",
+          "url": "https://www.youtube.com/watch?v=oxETA4jwgg8"
+        }
+      ],
+      "abstract": "More than 2.2 billion people in Asia and the Pacific live in cities, and by 2050 another 1.2 billion are expected to move to urban areas. While cities have created jobs and opportunities, many people are still left behind. Across the region, 697 million people live in slums, more than 65 per cent of urban workers are in informal and insecure jobs, and 2.3 billion people are exposed to unsafe air pollution. Women, youth, older persons, migrants, persons with disabilities and low-income workers are often the most affected. This report looks at how to make cities more inclusive, safe and resilient in line with SDG 11. It focuses on three priorities: affordable housing and basic services, decent and inclusive jobs, and healthier urban environments. It also highlights the importance of strong governance, better financing, innovation, and partnerships to ensure that no one and no place is left behind"
+    },
+    {
+      "id": "birth-registration",
+      "section": "Policy Publications",
+      "title": "Birth Registration in Asia and the Pacific: A CART Analysis to Identify the Furthest Behind Children",
+      "metadata": [
+        "United Nations ESCAP, 2023"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://lnob.unescap.org/node/415256"
+        }
+      ],
+      "abstract": "This paper investigates the determinants of birth registration in Asia and the Pacific. Drawing on data from the Demographic and Health Surveys (DHS) and the Multiple Indicator Cluster Surveys (MICS) from five representative countries in the region, namely Cambodia, Mongolia, Pakistan, Samoa, and Uzbekistan, the paper uses Classification and Regression Trees (CART) to identify the groups of children under 5 years of age who are least likely to have their birth being registered, i.e., the furthest behind groups. Results underscore significant within and cross-country disparities. The wealth of the household where the child currently resides, age of the child, educational attainment of the mother, number of children under 5 years of age in the household, and sex of the child, appear to be the most important characteristics influencing birth registration rates and identifying the furthest behind groups. The paper aims to inform policy making and interventions strategies intended at improving birth registration rates in Asia and the Pacific"
+    },
+    {
+      "id": "workforce",
+      "section": "Policy Publications",
+      "title": "The Workforce We Need: Social Outlook for Asia and the Pacific",
+      "metadata": [
+        "United Nations ESCAP, 2022"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://www.unescap.org/kp/2022/workforce-we-need-social-outlook-asia-and-pacific"
+        }
+      ],
+      "abstract": "Asia and the Pacific’s success in achieving the United Nations 2030 Agenda for Sustainable Development depends on a healthy, protected and productive workforce. People of working age make up two thirds of the region’s population and more than half of the global labour force. We depend on them to power the economic growth, competitiveness and sustainable development needed to accelerate the region’s progress towards all 17 Sustainable Development Goals. Our workforce generates the tax revenues needed to pay for essential public goods and services and ensures the well-being of dependent family members. Yet the working-age population of Asia and the Pacific is under pressure, denied the decent work opportunities it needs to fulfil its potential. Decent work entails equality of opportunity and treatment at work, dignity and safety in the workplace, a fair income and the freedom for workers to organize and participate in decisions related to their work and lives. It provides workers with access to social protection and health care, thereby ensuring that negative coping strategies, such as reducing food intake and selling productive assets, are avoided in the event of job loss or sickness. Decent work is necessary to ensure an adequate standard of living, reduce poverty and inequality, protect people from life cycle contingencies and promote inclusive growth. It is through well-functioning labour markets that the benefits of economic growth can spread to the whole population"
+    },
+    {
+      "id": "protection",
+      "section": "Policy Publications",
+      "title": "The Protection We Want: Social Outlook for Asia and the Pacific",
+      "metadata": [
+        "International Labour Organization and United Nations ESCAP, 2020"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://www.unescap.org/publications/protection-we-want-social-outlook-asia-and-pacific"
+        },
+        {
+          "label": "Media",
+          "url": "https://www.youtube.com/watch?v=a8DzfHwPpR0"
+        }
+      ],
+      "abstract": "Countries in Asia and the Pacific need to extend social protection coverage for all. Doing so would help them build back better after the COVID-19 pandemic. It would also help them tackle a range of compounding challenges arising from population ageing, migration, urbanization, technological advancements, disasters and climate change. Yet, as this report finds, social protection systems in the region are riddled with gaps. To assist policymakers in their efforts to broaden social protection coverage, the report provides evidence that investing in basic social protection would have an immediate impact on poverty, inequality and purchasing power, while being within financial reach for most countries in the region"
+    },
+    {
+      "id": "closing-the-gap",
+      "section": "Policy Publications",
+      "title": "Closing the Gap: Empowerment and Inclusion in Asia and the Pacific",
+      "metadata": [
+        "United Nations ESCAP, 2019"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://www.unescap.org/publications/closing-gap-empowerment-and-inclusion-asia-and-pacific"
+        }
+      ],
+      "abstract": "Equality lies at the heart of the 2030 Agenda for Sustainable Development and its ambition to leave no one behind. This report, prepared as the theme study for the 75th Commission Session, gages recent progress towards equality in three key outcomes: education, full-time employment and income. Covering the past ten years, the report assesses whether women, rural populations, persons with disabilities and other disadvantaged groups have fallen further behind, been included in overall national development gains, or empowered to catch up with outcome levels of more privileged groups. The report builds its narrative on quantifying progress in inclusion and empowerment by measuring how gaps between disadvantaged and advantaged groups have changed over time. It finds encouraging signs of empowerment in education, but such developments are often eclipsed by less widespread improvements in full-time employment. The picture that transpires is one where disadvantaged groups, in several countries, have benefited from broader economic growth and societal progress, while advantaged groups have been in the driver's seat. With slow progress towards equality, the story of a dual spreed region is more than anecdotal"
+    },
+    {
+      "id": "poorly-protected",
+      "section": "Policy Publications",
+      "title": "Poorly Protected: Social Outlook for Asia and the Pacific",
+      "metadata": [
+        "United Nations ESCAP, 2018"
+      ],
+      "links": [
+        {
+          "label": "Publisher's Version",
+          "url": "https://www.unescap.org/publications/social-outlook-asia-and-pacific-2018"
+        }
+      ],
+      "abstract": "The Social Outlook for Asia and the Pacific lays out new arguments and evidence for the critical and urgent need to increase investment in people, particularly in social protection. Developing countries in Asia and the Pacific only spend about 3.7 per cent of GDP on social protection, compared to the world average of 11.2 per cent. This under investment is the reason why 60 per cent of the population in the Asia-Pacific region has no protection if they fall ill, have a disability, become unemployed, pregnant or old. With 1.2 billion people living on than less $3.20 per day, of which 400 million live on less than $1.9 per day, social protection is an essential strategy to tackle poverty and deprivation. The evidence for increasing the level of investment in people in Asia and the Pacific is overwhelming: around 328 million people would be lifted out of moderate poverty and 52 million would move out of extreme poverty, if countries in the region matched the global averages of spending on education, health and social protection. Countries in the region do not have to wait to become rich to start investing in people. Even low income and lower-middle income countries can boost social spending, as evidenced by some first movers across the region"
+    },
+    {
+      "id": "inequality-of-opportunity",
+      "section": "Policy Publications",
+      "title": "Inequality of Opportunity in Asia and the Pacific",
+      "metadata": [
+        "United Nations ESCAP, 2018–2024"
+      ],
+      "links": [
+        {
+          "label": "Birth Registration",
+          "url": "https://www.unescap.org/kp/2024/inequality-opportunity-asia-and-pacific-birth-registration"
+        },
+        {
+          "label": "Pandemic Preparedness",
+          "url": "https://www.unescap.org/kp/2022/inequality-opportunity-asia-and-pacific-pandemic-preparednes"
+        },
+        {
+          "label": "Intimate Partner Violence",
+          "url": "https://www.unescap.org/kp/2023/intimate-partner-violence-against-women"
+        },
+        {
+          "label": "Financial Inclusion",
+          "url": "https://www.unescap.org/kp/2022/inequality-opportunity-asia-and-pacific-financial-inclusion-2022-update"
+        },
+        {
+          "label": "Women's Sexual and Reproductive Health",
+          "url": "https://www.unescap.org/resources/inequality-opportunity-asia-and-pacific-women-s-sexual-and-reproductive-health"
+        },
+        {
+          "label": "Water and Sanitation",
+          "url": "https://www.unescap.org/resources/inequality-opportunity-asia-and-pacific-water-and-sanitation"
+        }
+      ],
+      "abstract": "The Inequality of Opportunity papers place men and women at the heart of sustainable and inclusive development. They do so by identifying areas where inequality jeopardizes a person’s prospects, namely: education; women’s access to sexual and reproductive health care; children’s nutrition; decent work; basic water and sanitation; access to clean energy; and financial inclusion. Each of these opportunities is covered by specific commitments outlined in the 2030 Agenda for Sustainable Development. The Inequality of Opportunity papers apply a novel approach to analyzing household surveys with the aim of identifying the groups of individuals with the lowest access to the above-referenced opportunities. These groups are defined by common circumstances over which the individual has no direct control, such as their wealth, place of residence and education level, amongst others. In addition to identifying the furthest behind, the Inequality of Opportunity papers also explore the gaps between groups in accessing these key opportunities, as well as the extent to which these have narrowed or widened over time. They also review overall inequality trends in these opportunities. Ultimately, these findings are of direct use for generating discussion on transformations needed to reach the “furthest behind first” as pledged in the 2030 Agenda for Sustainable Development"
+    }
+  ]
+}
